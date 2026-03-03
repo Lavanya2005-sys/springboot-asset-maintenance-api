@@ -120,13 +120,13 @@ Password:
 ## Screenshots
 
 ### Application Running
-![App Running](screenshots/app_running.png)
+![App Running](App%20Running.png)
 
 ### Create Asset (POST)
-![Post Asset](screenshots/post_asset.png)
+![Post Asset](Post%20Asset.png)
 
 ### Retrieve Assets (GET)
-![Get Assets](screenshots/get_assets.png)
+![Get Assets](Get%20Assets%20.png)
 
 ---
 
