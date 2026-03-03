@@ -1,0 +1,9 @@
+com\example\assetmaintenance\AssetMaintenanceApplication.class
+com\example\assetmaintenance\model\Asset.class
+com\example\assetmaintenance\model\Asset$AssetBuilder.class
+com\example\assetmaintenance\service\AssetServiceImpl.class
+com\example\assetmaintenance\service\AssetService.class
+com\example\assetmaintenance\exception\GlobalExceptionHandler.class
+com\example\assetmaintenance\repository\AssetRepository.class
+com\example\assetmaintenance\exception\ResourceNotFoundException.class
+com\example\assetmaintenance\controller\AssetController.class
